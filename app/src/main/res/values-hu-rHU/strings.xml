@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">LV1</string>
+    <string name="studentiHeader">TANULÓK</string>
+    <string name="nastavi"><![CDATA[Tovább->]]></string>
+    <string name="datum_ro_enja">Születési dátum</string>
+    <string name="odaberite_jezik">Válasszon nyelvet:</string>
+    <string name="unesi_broj_ects">Írja be az ECTS számá</string>
+    <string name="unesi_broj_sati">Adja meg az órák számát</string>
+    <string name="profesor">Egyetemi tanár</string>
+    <string name="predmet">Ügy</string>
+    <string name="ects">ECTS</string>
+    <string name="broj_sati">Órák száma</string>
+    <string name="dodaj_novog_studenta">Új tanuló hozzáadása</string>
+    <string name="studenti">Diákok</string>
+    <string name="ime">Név</string>
+    <string name="prezime">Vezetéknév</string>
+    <string name="datum">Dátum:</string>
+    <string name="unesite_datum_ro_enja">Adja meg a születési dátumot</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">LV1</string>
+    <string name="studentiHeader">Students</string>
+    <string name="nastavi"><![CDATA[Continue->]]></string>
+    <string name="datum_ro_enja">Date of birth</string>
+    <string name="odaberite_jezik">Select language:</string>
+    <string name="unesi_broj_ects">Enter ECTS</string>
+    <string name="unesi_broj_sati">Enter #hours</string>
+    <string name="profesor">Professor</string>
+    <string name="predmet">Subject</string>
+    <string name="ects">ECTS</string>
+    <string name="broj_sati">Nr of lecture hours</string>
+    <string name="dodaj_novog_studenta">Add new student</string>
+    <string name="studenti">Students</string>
+    <string name="ime">Name</string>
+    <string name="prezime">Surname</string>
+    <string name="datum">Date:</string>
+    <string name="unesite_datum_ro_enja">Enter date of birth</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">LV1</string>
+    <string name="studentiHeader">STUDENTI</string>
+    <string name="nastavi"><![CDATA[Nastavi->]]></string>
+    <string name="datum_ro_enja">Datum rođenja</string>
+    <string name="odaberite_jezik">Odaberite jezik:</string>
+    <string name="unesi_broj_ects">Unesi broj ECTS</string>
+    <string name="unesi_broj_sati">Unesi broj sati</string>
+    <string name="profesor">Profesor</string>
+    <string name="predmet">Predmet</string>
+    <string name="ects">ECTS</string>
+    <string name="broj_sati">Broj sati</string>
+    <string name="dodaj_novog_studenta">Dodaj novog studenta</string>
+    <string name="studenti">Studenti</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="datum">Datum:</string>
+    <string name="unesite_datum_ro_enja">Unesite datum rođenja</string>
+
+    <string-array name="lang_array">
+        <item>Engleski</item>
+        <item>Hrvatski</item>
+        <item>Mađarski</item>
+    </string-array>
+
+</resources>
