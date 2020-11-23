@@ -12,10 +12,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.lv4.Activity.listeners.StudentListener;
+import com.example.lv4.Activity.interfaces.StudentListener;
 import com.example.lv4.R;
-
-import org.w3c.dom.Text;
 
 public class StudentInfoFragment extends Fragment {
 

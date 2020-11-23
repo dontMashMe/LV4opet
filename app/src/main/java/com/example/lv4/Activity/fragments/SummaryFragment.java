@@ -16,7 +16,7 @@ import androidx.fragment.app.Fragment;
 import com.example.lv4.Activity.Activities.StartActivity;
 import com.example.lv4.Activity.models.Student;
 import com.example.lv4.Activity.models.StudentList;
-import com.example.lv4.Activity.listeners.SummaryInfoDataSource;
+import com.example.lv4.Activity.interfaces.SummaryInfoDataSource;
 import com.example.lv4.R;
 
 public class SummaryFragment extends Fragment {

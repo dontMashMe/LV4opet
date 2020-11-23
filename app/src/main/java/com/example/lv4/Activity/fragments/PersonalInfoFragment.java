@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.lv4.Activity.listeners.PersonalListener;
+import com.example.lv4.Activity.interfaces.PersonalListener;
 import com.example.lv4.R;
 
 public class PersonalInfoFragment extends Fragment {

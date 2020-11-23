@@ -11,9 +11,9 @@ import com.example.lv4.Activity.models.Student;
 import com.example.lv4.Activity.fragments.PersonalInfoFragment;
 import com.example.lv4.Activity.fragments.StudentInfoFragment;
 import com.example.lv4.Activity.fragments.SummaryFragment;
-import com.example.lv4.Activity.listeners.PersonalListener;
-import com.example.lv4.Activity.listeners.StudentListener;
-import com.example.lv4.Activity.listeners.SummaryInfoDataSource;
+import com.example.lv4.Activity.interfaces.PersonalListener;
+import com.example.lv4.Activity.interfaces.StudentListener;
+import com.example.lv4.Activity.interfaces.SummaryInfoDataSource;
 
 import java.util.ArrayList;
 

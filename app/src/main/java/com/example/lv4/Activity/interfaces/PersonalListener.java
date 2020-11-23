@@ -1,4 +1,4 @@
-package com.example.lv4.Activity.listeners;
+package com.example.lv4.Activity.interfaces;
 
 public interface PersonalListener {
     void setName(String name);

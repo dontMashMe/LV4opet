@@ -1,4 +1,4 @@
-package com.example.lv4.Activity.listeners;
+package com.example.lv4.Activity.interfaces;
 
 import com.example.lv4.Activity.models.Student;
 
